@@ -1,0 +1,2 @@
+# Weed-Detection-and-Control-Using-Computer-Vision
+Automated weed detection system using YOLOv8 for real-time classification and precise herbicide application. Reduces manual labor, minimizes chemical use, and supports sustainable farming. Features include drone integration, high-resolution image processing, and scalability across diverse crops and environments. Built with Python, OpenCV, and Flask
